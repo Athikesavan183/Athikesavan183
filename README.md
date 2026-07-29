@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Athi Kesavan 👋</h1>
-<h3 align="center">Aspiring Data Engineer | SQL Server, T-SQL & Python | Data Pipelines, ETL & Automation</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Athi%20Kesavan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Engineer%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Data%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1F3864&center=true&vCenter=true&width=650&lines=Building+real-time+data+pipelines...;SQL+Server+%7C+T-SQL+%7C+Python+%7C+ETL;17-table+schema+%C2%B7+29+stored+procedures;Turning+raw+logs+into+real-time+insights;Open+to+Data+Engineering+opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/athi-kesavan-412b682a2/">
@@ -8,6 +13,7 @@
   <a href="mailto:athikesavana55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1F3864&label=Profile+Views" />
 </p>
 
 ---
@@ -61,6 +67,24 @@ A relational database system for a multi-category retail and service business, c
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false&background=FFFFFF00&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false" height="165" />
+</p>
+
+<!-- Snake contribution animation — see setup note below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+---
+
 ### 🏆 Achievements
 - 🥇 **1st Place** — Inter-College Prompt Engineering Competition, Dec 2025
 
@@ -73,3 +97,5 @@ A relational database system for a multi-category retail and service business, c
 I'm open to full-time Data Engineering opportunities — pipeline building, ETL, and database systems. Feel free to reach out!
 
 📧 **athikesavana55@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/athi-kesavan-412b682a2/)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
