@@ -16,6 +16,8 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1F3864&label=Profile+Views" />
 </p>
 
+<!-- ⚠️ Replace every "YOUR_GITHUB_USERNAME" in this file with your real GitHub username before pushing, or these cards will show as broken/blank images. -->
+
 ---
 
 ### 👨‍💻 About Me
@@ -70,17 +72,31 @@ A relational database system for a multi-category retail and service business, c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false&background=FFFFFF00&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=false&background=FFFFFF00&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false" height="165" />
 </p>
 
-<!-- Snake contribution animation — see setup note below -->
+<!-- Animated trophy case — auto-updates based on your repo activity -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&column=7&margin-w=8&margin-h=8&title.color=1F3864&text.color=444444&border.color=BFBFBF" />
+</p>
+
+<!-- Animated activity graph — line chart of your daily contributions -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&line=1F3864&point=444444&area=true&area_color=1F3864" width="100%" />
+</p>
+
+<!-- Snake contribution animation — needs a one-time GitHub Action setup, see note below -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,java,html,git,github&theme=light" />
 </p>
 
 ---
