@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Athi%20Kesavan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Engineer%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Data%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Athi%20Kesavan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Data%20Pipelines&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1F3864&center=true&vCenter=true&width=650&lines=Building+real-time+data+pipelines...;SQL+Server+%7C+T-SQL+%7C+Python+%7C+ETL;17-table+schema+%C2%B7+29+stored+procedures;Turning+raw+logs+into+real-time+insights;Open+to+Data+Engineering+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1F3864&center=true&vCenter=true&width=650&lines=Building+real-time+data+pipelines...;SQL+Server+%7C+T-SQL+%7C+Python+%7C+ETL;21-table+schema+%C2%B7+34+stored+procedures;Turning+raw+logs+into+real-time+insights;Open+to+Data+Engineering+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,9 +22,9 @@
 
 ### 👨‍💻 About Me
 
-Most students submit assignments. I spent 4 months at a real company building something that actually runs.
+Most students submit assignments. I spent 5 months at a real company building something that actually runs.
 
-During my internship at **Tarcin Robotics LLP**, I built a real-time data pipeline that ingests logs from Windows machines, application servers, and databases, applies ML models to detect anomalies, and automates the entire response workflow. I've also independently designed a full relational database system — **17 tables, 29 stored procedures, triggers, views, and window functions** — for a multi-category retail and service business.
+During my internship at **Tarcin Robotics LLP**, I built a real-time data pipeline that ingests logs from Windows machines, application servers, and databases, applies ML models to detect anomalies, and automates the entire response workflow. I've also independently designed a full relational database system — **21 tables, 34 stored procedures, triggers, views, and window functions** — for a multi-category retail and service business.
 
 I'm currently finishing my **B.Sc in Information Technology** (2026) and looking to grow into a full-time **Data Engineering** role — pipeline building, ETL, and database systems are where I want to focus next.
 
@@ -42,8 +42,8 @@ A real-time data pipeline that ingests, processes, and analyzes logs from Window
 
 **🔹 End-to-End Retail & Service Database with Automated Reporting**
 A relational database system for a multi-category retail and service business, covering sales, inventory, service operations, and technician management end-to-end.
-- Normalized schema across 17 tables with enforced foreign key relationships
-- 29 stored procedures with transaction handling (commit/rollback) for multi-table operations
+- Normalized schema across 21 tables with enforced foreign key relationships
+- 34 stored procedures with transaction handling (commit/rollback) for multi-table operations
 - Triggers to auto-recalculate order and service totals on data changes
 - Window functions and CTEs powering customer lifetime value and order frequency analytics
 - **Tech:** `SQL Server` `T-SQL` `Stored Procedures` `Triggers` `CTEs` `Window Functions`
