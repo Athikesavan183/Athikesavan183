@@ -69,16 +69,9 @@ A relational database system for a multi-category retail and service business, c
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athikesavan183&show_icons=true&theme=transparent&title_color=1F3864&icon_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Athikesavan183&theme=default&hide_border=false&background=FFFFFF00&stroke=1F3864&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athikesavan183&layout=compact&theme=transparent&title_color=1F3864&text_color=444444&border_color=BFBFBF&hide_border=false" height="165" />
-</p>
+
 
 <!-- Animated trophy case — auto-updates based on your repo activity -->
 <p align="center">
