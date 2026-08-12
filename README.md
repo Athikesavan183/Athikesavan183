@@ -1,12 +1,16 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=190&section=header&text=Athi%20Kesavan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Engineering%20%7C%20Python%20%7C%20SQL&descAlignY=60&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=210&section=header&text=Athi%20Kesavan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Python%20%7C%20SQL%20%7C%20ETL&descAlignY=60&descSize=19" width="100%"/>
 </p>
 
+<!-- ======================= TYPING ANIMATION ======================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=1F3864&center=true&vCenter=true&width=700&lines=Building+reliable+data+pipelines;Designing+scalable+SQL+systems;Python+%7C+SQL+%7C+ETL+%7C+Data+Engineering;Turning+raw+data+into+actionable+insights;Open+to+Data+Engineering+opportunities" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=1F3864&center=true&vCenter=true&width=750&lines=Building+real-time+data+pipelines...;Python+%7C+SQL+Server+%7C+T-SQL+%7C+ETL;Designing+reliable+database+systems;Turning+raw+logs+into+real-time+insights;Exploring+modern+Data+Engineering" alt="Typing Animation"/>
 </p>
+
+<!-- ======================= SOCIAL LINKS ======================= -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/athi-kesavan-412b682a2/">
@@ -22,36 +26,95 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with a strong interest in **Data Engineering, backend systems, SQL, and Python-based data pipelines**.
+I'm a **B.Sc Information Technology graduate** focused on building reliable data systems, database solutions, and Python-based data pipelines.
 
-During my internship at **Tarcin Robotics LLP**, I worked on a real-time log intelligence system that collected logs from Windows machines, application servers, and database environments, processed them through Python-based pipelines, detected anomalies using machine learning, and automated alerting workflows.
+During my internship at **Tarcin Robotics LLP**, I worked on a real-time log intelligence system that collected logs from Windows machines, application servers, and database environments, processed them using Python, applied machine learning for anomaly detection, and automated alerting workflows.
 
-Alongside this, I have designed and implemented relational database systems involving:
+I have also independently designed a complete relational database system consisting of:
 
-* **21-table normalized schemas**
+* **21 normalized tables**
 * **34 stored procedures**
-* Transactions and rollback handling
-* Triggers and automated calculations
+* Triggers and views
+* Transaction handling
 * CTEs and window functions
 * Analytical SQL queries
-* Reporting and data visualization
+* Automated reporting workflows
 
-🎯 **Currently focused on:** Data Engineering, ETL pipelines, SQL development, Python automation, and scalable data systems.
+My current focus is **Data Engineering**, particularly:
+
+`Data Pipelines` · `ETL` · `SQL` · `Python` · `Database Systems` · `Data Analytics`
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### 💾 Databases & SQL
+### 🔹 GraviBolt — Real-Time Log Anomaly Detection
+
+> A centralized real-time log intelligence pipeline for monitoring IT environments.
+
+**What it does**
+
+Collects and processes logs from:
+
+* Windows machines
+* Application servers
+* Database environments
+
+**Key Engineering Work**
+
+* Built Python-based log collectors using **WMI**
+* Designed structured log storage using **Microsoft SQL Server**
+* Implemented machine-learning-based anomaly detection
+* Built automated workflows using **n8n**
+* Integrated automated email notifications
+* Created Power BI dashboards for operational monitoring
+* Designed the pipeline for continuous log processing and analysis
+
+**Technology**
+
+`Python` `SQL Server` `WMI` `Machine Learning` `n8n` `Power BI`
+
+---
+
+### 🔹 Retail & Service Management Database
+
+> End-to-end relational database system for retail and service operations.
+
+**Database Architecture**
+
+* Designed a normalized **21-table relational schema**
+* Implemented **34 stored procedures**
+* Enforced relationships using foreign keys
+* Added transaction handling with `COMMIT` / `ROLLBACK`
+* Created triggers for automated calculations
+* Implemented reusable views
+
+**Analytics**
+
+* CTE-based data transformation
+* Window-function-based analysis
+* Customer lifetime value calculations
+* Order-frequency analysis
+* Revenue and operational reporting
+
+**Technology**
+
+`SQL Server` `T-SQL` `Stored Procedures` `Triggers` `CTEs` `Window Functions`
+
+---
+
+## 🛠️ Technical Stack
+
+### 🗄️ Databases & SQL
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-1F3864?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-**SQL:** Stored Procedures · CTEs · Window Functions · Joins · Views · Triggers · Transactions · Query Optimization · Database Design
+**SQL:**
+`T-SQL` · `Stored Procedures` · `CTEs` · `Window Functions` · `Views` · `Triggers` · `Transactions` · `Joins` · `Database Design`
 
 ### 🐍 Programming
 
@@ -59,22 +122,22 @@ Alongside this, I have designed and implemented relational database systems invo
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
-### ⚙️ Data Engineering & Automation
+### ⚙️ Data, Automation & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Python%20ETL-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WMI-1F3864?style=flat-square"/>
   <img src="https://img.shields.io/badge/ETL-1F3864?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1F3864?style=flat-square"/>
 </p>
 
-### 📊 Analytics & Tools
+### 🔧 Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -83,67 +146,22 @@ Alongside this, I have designed and implemented relational database systems invo
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Internship Experience
 
-### 🔹 GraviBolt — Real-Time IT Log Anomaly Detection
+### Database Intern — Tarcin Robotics LLP
 
-**Real-time log intelligence and anomaly detection system**
+**Duration:** 5 Months
 
-A centralized pipeline designed to collect, process, analyze, and monitor logs from multiple IT environments.
+Worked on database development and a real-time log intelligence system involving:
 
-**Key Contributions**
+* Python-based data collection
+* SQL Server data storage
+* Windows log collection using WMI
+* Machine learning-based anomaly detection
+* Automated workflows using n8n
+* Power BI monitoring dashboards
 
-* Built Python-based collectors for Windows system logs
-* Used **WMI** for machine-level data collection
-* Designed SQL Server storage for structured log data
-* Integrated machine-learning-based anomaly detection
-* Built automated workflows using **n8n**
-* Implemented email-based alerting
-* Created Power BI dashboards for monitoring and analysis
-* Designed the system around real-time operational monitoring
-
-**Tech Stack**
-
-`Python` `SQL Server` `WMI` `Machine Learning` `n8n` `Power BI`
-
----
-
-### 🔹 Retail & Service Management Database
-
-**End-to-end relational database system for retail and service operations**
-
-Designed a complete SQL Server database covering sales, inventory, customers, services, technicians, and reporting.
-
-**Key Contributions**
-
-* Designed a normalized **21-table relational schema**
-* Implemented **34 stored procedures**
-* Added transaction handling with `COMMIT` / `ROLLBACK`
-* Created triggers for automated calculations
-* Used CTEs for complex data transformations
-* Used window functions for analytical reporting
-* Built customer lifetime value and order-frequency analysis
-* Implemented reusable SQL reporting queries
-
-**Tech Stack**
-
-`SQL Server` `T-SQL` `Stored Procedures` `Triggers` `CTEs` `Window Functions`
-
----
-
-## 💼 Experience
-
-### Software Engineer
-
-**PKG Infotech Private Limited** · 2026 – Present
-
-Working with software development technologies and database-driven applications while strengthening practical experience in backend development, SQL, and production-oriented software engineering.
-
-### Database Intern
-
-**Tarcin Robotics LLP** · 5 Months
-
-Worked on database systems and a real-time log intelligence project involving:
+**Core Technologies**
 
 `Python` · `SQL Server` · `WMI` · `Machine Learning` · `n8n` · `Power BI`
 
@@ -151,23 +169,29 @@ Worked on database systems and a real-time log intelligence project involving:
 
 ## 🏆 Achievements
 
-🥇 **1st Place — Inter-College Prompt Engineering Competition**
-December 2025
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%201st%20Place-Prompt%20Engineering%20Competition-1F3864?style=for-the-badge"/>
+</p>
+
+**Inter-College Prompt Engineering Competition — December 2025**
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. Information Technology**
-HKRH College of Arts and Science
-Affiliated to Madurai Kamaraj University · 2023–2026
+### B.Sc. Information Technology
+
+**HKRH College of Arts and Science**
+Affiliated to **Madurai Kamaraj University**
+
+**2023 – 2026**
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athikesavan183&theme=minimal&hide_border=true&line=1F3864&point=444444&area=true&area_color=1F3864" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athikesavan183&theme=minimal&hide_border=true&line=1F3864&point=1F3864&area=true&area_color=1F3864" width="100%"/>
 </p>
 
 <p align="center">
@@ -177,7 +201,7 @@ Affiliated to Madurai Kamaraj University · 2023–2026
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Athikesavan183/Athikesavan183/output/github-contribution-grid-snake.svg" width="100%"/>
@@ -187,9 +211,13 @@ Affiliated to Madurai Kamaraj University · 2023–2026
 
 ## 📫 Let's Connect
 
-I'm currently interested in opportunities involving:
+<p align="center">
+  <strong>Open to Data Engineering opportunities</strong>
+</p>
 
-**Data Engineering · ETL · SQL Development · Python · Backend Development · Data Pipelines**
+<p align="center">
+  Data Pipelines · ETL · SQL · Python · Database Systems · Data Analytics
+</p>
 
 <p align="center">
   <a href="mailto:athikesavana55@gmail.com">
@@ -200,8 +228,10 @@ I'm currently interested in opportunities involving:
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>Building reliable systems. Learning continuously. Turning data into value.</i>
+  <i>Building pipelines. Engineering data. Creating impact.</i>
 </p>
 
 <p align="center">
