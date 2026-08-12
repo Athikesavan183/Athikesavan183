@@ -74,9 +74,7 @@ A relational database system for a multi-category retail and service business, c
 
 
 <!-- Animated trophy case — auto-updates based on your repo activity -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Athikesavan183&theme=flat&column=7&margin-w=8&margin-h=8&title.color=1F3864&text.color=444444&border.color=BFBFBF" />
-</p>
+
 
 <!-- Animated activity graph — line chart of your daily contributions -->
 <p align="center">
