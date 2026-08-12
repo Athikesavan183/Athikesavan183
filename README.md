@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=210&section=header&text=Athi%20Kesavan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Python%20%7C%20SQL%20%7C%20ETL&descAlignY=60&descSize=19" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=210&section=header&text=Athi%20Kesavan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineering%20%7C%20Python%20%7C%20SQL%20%7C%20ETL&descAlignY=60&descSize=19" width="100%"/>
 </p>
 
 <!-- ======================= TYPING ANIMATION ======================= -->
