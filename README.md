@@ -194,17 +194,11 @@ Affiliated to **Madurai Kamaraj University**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athikesavan183&theme=minimal&hide_border=true&line=1F3864&point=1F3864&area=true&area_color=1F3864" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athikesavan183&show_icons=true&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=444444&bg_color=ffffff" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Athikesavan183&hide_border=true&ring=1F3864&fire=1F3864&currStreakLabel=1F3864" height="165"/>
-</p>
-
----
-
-## 🐍 Contribution Animation
 
 
 ---
+
+
 
 ## 📫 Let's Connect
 
